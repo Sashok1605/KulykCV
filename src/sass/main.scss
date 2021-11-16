@@ -1,6 +1,7 @@
 @import './base/container';
 @import './base/common';
-// @import '../node_modules/bootstrap/scss/progress';
+@import './layout/aboutsection';
+
 @import "../node_modules/bootstrap/scss/functions";
 @import "../node_modules/bootstrap/scss/variables";
 @import "../node_modules/bootstrap/scss/mixins";
@@ -8,6 +9,5 @@
 @import "../node_modules/bootstrap/scss/utilities";
 @import "../node_modules/bootstrap/scss/progress";
 @import "../node_modules/bootstrap/scss/helpers";
-//@import "../node_modules/bootstrap/scss/utilities/api";
-@import './layout/aboutsection';
+
 
