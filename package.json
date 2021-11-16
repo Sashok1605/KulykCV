@@ -6,8 +6,7 @@
   "homepage": "https://Sashok1605.github.io/KulykCV",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/",
-    "sass": "scss/bootstrap.scss"
+    "build": "parcel build src/*.html --public-url /parcel-project-template/"
   },
   "repository": {
     "type": "git",
